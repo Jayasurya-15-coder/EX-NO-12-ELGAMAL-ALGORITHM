@@ -1,7 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
 
-## Name:Mukesh Raj D
-## Reg No:212224100038
+## Name: JAYASURYA B
+## Reg No:212224100026
 ## Date:27-08-2026
 
 ## AIM:
